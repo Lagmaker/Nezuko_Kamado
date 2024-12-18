@@ -1,0 +1,13 @@
+# Unreal Engine
+*.pdb
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.VC.db
+*.vscode/*
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+.vscode/
