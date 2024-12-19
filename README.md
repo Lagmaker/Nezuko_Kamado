@@ -1,0 +1,30 @@
+# Nezuko_Kamado
+
+## Main Goals
+
+1:
+
+- rift sound fortnite
+- energy ball effect
+- teleport on coordinates
+
+2:
+
+- winter map
+- xmas tree
+- xmas music
+- ~~teleport on pubg? map~~
+- ~~smth like castle~~
+
+3:
+
+- grabbing items mechanic
+- & throwing them
+
+4:
+
+- HUD
+- ~~NPC and dialog~~
+
+
+
