@@ -4,9 +4,9 @@
 
 1:
 
-- rift sound fortnite
-- energy ball effect
-- teleport on coordinates
+- rift sound fortnite ✔
+- energy ball effect ✔
+- teleport on coordinates ✔
 
 2:
 
@@ -25,6 +25,12 @@
 
 - HUD
 - ~~NPC and dialog~~
+
+## Desired Goals
+
+5:
+
+- fix back culling in self made models
 
 
 
