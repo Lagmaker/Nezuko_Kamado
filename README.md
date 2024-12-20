@@ -10,9 +10,11 @@
 
 2:
 
-- winter map
-- xmas tree
-- xmas music
+- winter map ✔
+- clouds ✔
+- xmas music 
+- xmas tree ✔
+- add falling snow 🟡
 - ~~teleport on pubg? map~~
 - ~~smth like castle~~
 

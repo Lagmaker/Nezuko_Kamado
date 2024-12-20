@@ -11,3 +11,8 @@ DerivedDataCache/*
 Intermediate/*
 Saved/*
 .vscode/
+Content/*
+\!Content/Collections
+\!Content/CGHOWVFX
+\!Content/Nezuko_Kamado
+
